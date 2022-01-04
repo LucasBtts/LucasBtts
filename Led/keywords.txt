@@ -1,0 +1,6 @@
+led KEYWORD1
+ledOn KEYWORD2
+ledOff KEYWORD2
+ledClign KEYWORD2
+ledChange KEYWORD2
+getEtat KEYWORD2
